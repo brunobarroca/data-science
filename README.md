@@ -15,5 +15,10 @@ Lista de projetos em Google Colaboratory:
 * Tecnólogo em Brando de Dados pela Faculdade Impacta de Tecnologia (FIT).
 * Pós Graduação em Data Analytics pela Faculdade de Informática e Administração Paulista (FIAP).
 
+### Se você quiser saber um pouco mais sobre mim 🚀:
+* [LinkedIn](https://www.linkedin.com/in/brunobarroca)
+* [Instagram](https://www.instagram.com/obrunobarroca)
 
----
+
+
+
